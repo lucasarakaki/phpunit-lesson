@@ -2,7 +2,7 @@
     "name": "lucastakeshi/phpunit-lesson",
     "autoload": {
         "psr-4": {
-            "Lucastakeshi\\PhpunitLesson\\": "src/"
+            "App\\": "app/"
         }
     },
     "autoload-dev": {
